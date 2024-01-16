@@ -40,6 +40,6 @@ Discover a world of cinematic delight with **BingeFlix**, your go-to web applica
    http://localhost:3000
    ```
 
-**Ready to binge? **
+**Ready to binge?**
 
-**Enjoy the show! **
+**Enjoy the show!**
