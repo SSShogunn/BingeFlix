@@ -21,7 +21,7 @@ Discover a world of cinematic delight with **BingeFlix**, your go-to web applica
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/BingeFlix.git
+   git clone https://github.com/SSShogunn/BingeFlix/
    ```
 2. **Install dependencies:**
    ```bash
@@ -29,7 +29,7 @@ Discover a world of cinematic delight with **BingeFlix**, your go-to web applica
    npm install
    ```
 3. **Set up Firebase:**
-   - Create a Firebase project and add your project configuration to `.env.local`.
+   - Create a Firebase project and add your project configuration to `.env`.
    - Follow the Firebase documentation for detailed instructions.
 4. **Start the development server:**
    ```bash
@@ -37,7 +37,7 @@ Discover a world of cinematic delight with **BingeFlix**, your go-to web applica
    ```
 5. **Access the app in your browser:**
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 **Ready to binge?**
